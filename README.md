@@ -58,7 +58,3 @@ cp .env.example .env.local   # add PostgreSQL URL and auth secrets
 npx prisma migrate dev
 npm run dev
 ```
-
-## Status
-
-🚧 Work in progress — Kanban board and task CRUD working, activity feed and team invite flow in development.
