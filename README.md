@@ -16,6 +16,10 @@ TaskFlow lets teams organize work into Kanban-style boards with customizable col
 - **Tailwind CSS** — utility-first styling
 - **dnd-kit** — drag-and-drop Kanban interactions
 
+## Inspiration
+
+During one of my job experiences I got to use a software that does a similar function. I found it quite useful and was curious as to how it worked, so I decided to create my own style of the software for personal day-to-day use and for my family to try out and split chores.
+
 ## Features
 
 - Kanban board with drag-and-drop task reordering across columns
