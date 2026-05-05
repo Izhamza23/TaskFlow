@@ -29,29 +29,6 @@ During one of my job experiences I got to use a software that does a similar fun
 - Board-level search and filter by assignee, tag, or status
 - Responsive layout — works on desktop and tablet
 
-## Project Structure
-
-```
-taskflow/
-├── app/
-│   ├── (auth)/
-│   │   └── login/           # Auth pages
-│   ├── board/
-│   │   └── [boardId]/       # Dynamic board view
-│   └── api/
-│       └── tasks/           # REST API routes
-├── components/
-│   ├── Board.tsx
-│   ├── TaskCard.tsx
-│   └── Column.tsx
-├── lib/
-│   ├── prisma.ts
-│   └── auth.ts
-├── prisma/
-│   └── schema.prisma
-└── package.json
-```
-
 ## Getting Started
 
 ```bash
